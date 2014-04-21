@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   # Rails Engine Decorators
   s.add_runtime_dependency('rails_engine_decorators')
   # Activity and Relation hierarchies
-  s.add_runtime_dependency('ancestry', '~> 1.2.3')
+  s.add_runtime_dependency('ancestry', '~> 1.3.0')
   # SQL foreign keys
   s.add_runtime_dependency('foreigner', '~> 1.1.1')
   # Authentication
